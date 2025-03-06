@@ -111,7 +111,9 @@ print(f'Максимальная температура - Предсказани
 
 ### 3. CIFAR-10 обучение
 График точности:
-![CIFAR-10 Accuracy](https://via.placeholder.com/300x200.png?text=CIFAR-10+Accuracy)
+
+![image](https://github.com/user-attachments/assets/2829ff9d-c2b3-49da-b306-150da92f8777)
+
 
 ## Требования к данным
 
